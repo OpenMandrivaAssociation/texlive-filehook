@@ -6,7 +6,7 @@
 # catalog-version 0.5d
 Name:		texlive-filehook
 Version:	0.5d
-Release:	5
+Release:	6
 Summary:	Hooks for input files
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/filehook
