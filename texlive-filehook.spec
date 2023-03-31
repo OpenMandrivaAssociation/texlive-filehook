@@ -1,6 +1,6 @@
 Name:		texlive-filehook
 Version:	64822
-Release:	1
+Release:	2
 Summary:	Hooks for input files
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/filehook
