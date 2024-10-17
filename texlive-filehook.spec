@@ -3,7 +3,7 @@ Version:	64822
 Release:	2
 Summary:	Hooks for input files
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/filehook
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/filehook
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/filehook.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/filehook.doc.r%{version}.tar.xz
